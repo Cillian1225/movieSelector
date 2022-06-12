@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Cillian1225/movieSelector/static/css/main.df52d618.css",
-    "main.js": "/Cillian1225/movieSelector/static/js/main.585e0e03.js",
-    "index.html": "/Cillian1225/movieSelector/index.html",
-    "main.df52d618.css.map": "/Cillian1225/movieSelector/static/css/main.df52d618.css.map",
-    "main.585e0e03.js.map": "/Cillian1225/movieSelector/static/js/main.585e0e03.js.map"
+    "main.css": "/movieSelector/static/css/main.df52d618.css",
+    "main.js": "/movieSelector/static/js/main.585e0e03.js",
+    "index.html": "/movieSelector/index.html",
+    "main.df52d618.css.map": "/movieSelector/static/css/main.df52d618.css.map",
+    "main.585e0e03.js.map": "/movieSelector/static/js/main.585e0e03.js.map"
   },
   "entrypoints": [
     "static/css/main.df52d618.css",
